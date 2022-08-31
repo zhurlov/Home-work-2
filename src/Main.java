@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         var dog = 8;
         System.out.println(dog);
-        dog = dog + 4;
+        dog = dog +4;
         System.out.println(dog);
         var dogpos = 12.0;
         System.out.println(dogpos);
@@ -12,7 +12,7 @@ public class Main {
         System.out.println(dogpos);
         var cat = 3.6;
         System.out.println(cat);
-        cat = cat + 4;
+        cat = cat +4;
         System.out.println(cat);
         cat = cat - 1.6;
         System.out.println(cat);
